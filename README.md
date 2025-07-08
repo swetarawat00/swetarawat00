@@ -1,5 +1,3 @@
-##👋 Hi, I’m Sweta Rawat
-
 # 💫 About Me:
 Hi, I’m Sweta Rawat — a Computer Science graduate and an aspiring Full Stack Developer who’s actively building real-world skills with a clear goal: to create clean, user-focused, and meaningful web applications.<br><br>I’m currently working on my first major project, DevConnect, a platform designed to bring developers together — and I’m using it as a playground to apply everything I’m learning.<br><br>🌱 Currently exploring:<br>Building scalable backends with Django REST Framework<br><br>Designing better UI/UX experiences using Figma<br><br>Integrating PostgreSQL with Django for production-ready apps<br><br>I believe in learning by doing, and I’m focused on turning my ideas into working products — one feature at a time.
 
