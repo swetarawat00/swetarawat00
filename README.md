@@ -1,5 +1,37 @@
 # 💫 About Me:
-Hi, I’m Sweta Rawat — a Computer Science graduate and an aspiring Full Stack Developer who’s actively building real-world skills with a clear goal: to create clean, user-focused, and meaningful web applications.<br><br>I’m currently working on my first major project, DevConnect, a platform designed to bring developers together — and I’m using it as a playground to apply everything I’m learning.<br><br>🌱 Currently exploring:<br>Building scalable backends with Django REST Framework<br><br>Designing better UI/UX experiences using Figma<br><br>Integrating PostgreSQL with Django for production-ready apps<br><br>I believe in learning by doing, and I’m focused on turning my ideas into working products — one feature at a time.
+I’m Sweta Rawat, a Computer Science graduate and an aspiring Full Stack Developer with a strong focus on backend engineering and clean, scalable architecture.
+I am driven by the goal of building applications that are intuitive, efficient, and aligned with real user needs.
+
+I take a practical, project-based approach to learning, which helps me understand not just what to build, but why and how it fits into a larger system.
+
+🔍 Current Focus Areas
+
+Developing robust APIs and scalable backends using Django & Django REST Framework
+
+Designing clean and user-centered interfaces through Figma
+
+Building structured, production-ready databases with PostgreSQL
+
+Strengthening my foundations in system design, API best practices, and application architecture
+
+🛠 Ongoing Project: DevConnect
+
+I am currently working on DevConnect, a platform designed to bring developers together.
+This project allows me to apply full-stack concepts end to end — from database modeling and authentication to UI design and feature development — while improving my code quality and architectural thinking.
+
+💡 My Professional Approach
+
+I believe good software is:
+
+Well-structured
+
+User-focused
+
+Efficient and maintainable
+
+I aim to build products that are practical, thoughtful, and scalable—solutions that don’t just work, but work well.
+
+I am continuously learning, improving, and working toward becoming a developer who can design, build, and deliver meaningful digital products with confidence and clarity.
 
 
 ## 🌐 Socials:
