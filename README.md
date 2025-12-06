@@ -14,24 +14,7 @@ Building structured, production-ready databases with PostgreSQL
 
 Strengthening my foundations in system design, API best practices, and application architecture
 
-🛠 Ongoing Project: DevConnect
 
-I am currently working on DevConnect, a platform designed to bring developers together.
-This project allows me to apply full-stack concepts end to end — from database modeling and authentication to UI design and feature development — while improving my code quality and architectural thinking.
-
-💡 My Professional Approach
-
-I believe good software is:
-
-Well-structured
-
-User-focused
-
-Efficient and maintainable
-
-I aim to build products that are practical, thoughtful, and scalable—solutions that don’t just work, but work well.
-
-I am continuously learning, improving, and working toward becoming a developer who can design, build, and deliver meaningful digital products with confidence and clarity.
 
 
 ## 🌐 Socials:
